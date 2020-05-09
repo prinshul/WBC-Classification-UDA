@@ -1,9 +1,12 @@
 # WBC_Classification_UDA
 White Blood Cells Classification using Unsupervised Domain Adaptation
 
-Python 3.6
-Tensorflow 1.14.0
-Nvidia cuda 10.1
+
+- tensorflow = 1.14.0
+- python = 3.56 or higher
+- keras = 2.2.5
+- Nvidia cuda 10.1
+
 
 Train a Variational Auto-Encoder using Source domain (code in the file TrainVAE.py)
 Perform Unsupervised Domain Adaptation on the Target domain (code in the file Latent Search.py)
