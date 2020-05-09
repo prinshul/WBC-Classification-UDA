@@ -1,4 +1,4 @@
-# WBC_Classification_UDA
+# WBC-Classification-UDA
 White Blood Cells Classification using Unsupervised Domain Adaptation
 
 
