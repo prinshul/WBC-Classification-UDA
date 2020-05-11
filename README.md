@@ -1,5 +1,5 @@
 # WBC-Classification-UDA
-White Blood Cells Classification using Unsupervised Domain Adaptation
+Peripheral Blood Smear White Blood Cells Classification using Unsupervised Domain Adaptation (No target images used during training).
 
 
 - tensorflow = 1.14.0
