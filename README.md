@@ -13,5 +13,11 @@ Peripheral Blood Smear White Blood Cells Classification using Unsupervised Domai
 
 ## Usage
 Train a Variational Auto-Encoder using Source domain (code in the file TrainVAE.py)
+```
+python TrainVAE.py
+```
 
 Perform Unsupervised Domain Adaptation on the Target domain (code in the file Latent_Search.py)
+```
+python Latent_Search.py
+```
