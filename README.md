@@ -1,9 +1,11 @@
 # WBC-Classification-UDA
 Peripheral Blood Smear White Blood Cells Classification using Unsupervised Domain Adaptation (No target images used during training unlike SOTA UDA).
 
-![](images/train_percept_1-1.jpg)
+
 
 ![](images/classes_camera-1.jpg)
+![](images/train_percept_1-1.jpg)
+![](images/inf_cond3-1.jpg)
 
 - tensorflow = 1.14.0
 - python = 3.6 or higher
