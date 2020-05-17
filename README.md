@@ -11,7 +11,7 @@ Peripheral Blood Smear White Blood Cells Classification using Unsupervised Domai
 - keras = 2.2.5
 - Nvidia cuda = 10.1
 
-# WBC-Classification-UDA
+## Usage
 Train a Variational Auto-Encoder using Source domain (code in the file TrainVAE.py)
 
 Perform Unsupervised Domain Adaptation on the Target domain (code in the file Latent_Search.py)
